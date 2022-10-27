@@ -1,4 +1,4 @@
-**Task: In a given image of an hindi alphabet classify the vowel and consonant **
+## Task: In a given image of an hindi alphabet classify the vowel and consonant
 
 The goal is to identify the vowel and the consonant of each character image using Convolutional Neural Networks and its variations. The model was developed in such a way that given an image of hindi alphabet it will classify both the vowel and consonant present in it. 
 
