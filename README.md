@@ -9,6 +9,6 @@ In all the standard CNN models the convolution part was pre-trained and the full
 Accuracy Metrics
 | Model        | Training Accuracy | Testing Accuracy |
 |--------------|-------------------|------------------|
-| Vanilla CNN  |                   |                  |
+| Vanilla CNN  | 19.20             | 17.20            |
 | VGG16        | 40.53             | 37.70            |
 | ResNet50     | 64.29             | 58.40            |
